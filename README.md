@@ -1,3 +1,3 @@
 # README
 
-Script for updating the Cluster ID. Useful when you set up a new cluster and want to re-use your current enterprise license.
+Script for updating the Graylog Cluster ID. Useful after seting up a new cluster and the desire to re-use your current enterprise license.
